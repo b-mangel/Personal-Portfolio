@@ -29,22 +29,47 @@ In this class students learned different approaches to ideation and were exposed
 The goal of the competition was to score the most points, head-to-head, against three other teams. The main ways to score points in the competition were saving the "Hulk" object, pushing away the "Thanos" object, recovering "infinity stones", and grabbing the "infinty gauntlet".
 
 <p align="center">
-  <img src="Track.png" width=250 />
-  <img src="Hulk.png" width=150 />
+  <img src="Track.png" width=290 />
+  <img src="Hulk.png" width=140 />
   <img src="Thanos.png" width=200 />
   <img src="gems.png" width=175>
-  <img src="infinity gauntlet.png" width=150 />
+  <img src="infinity gauntlet.png" width=120 />
 </p>
 
 <p align="center">
   <i>From left to right: Competition Track, Hulk, Thanos, Infinity Stones, Infinity Gauntlet</i>
 </p>
 
-Our robot's design differed compared to the majority of robot designs. While most teams situated their robot with one of the short end facing the center of the competition zone, we placed Black Widow with one of the long end facing the center, allowing us to use a cart to collect gems instead of a sliding arm.
+Our robot's design differed compared to the majority of robot designs. While most teams situated their robot with one of the short end facing the center of the competition zone, we placed "Black Widow" with one of the long end facing the center, allowing us to use a cart to collect gems instead of a sliding arm.
 
-Images loading...
+<p align="center">
+  <img src="Closed_Machine.PNG" width=350 />
+  <img src="Open_Machine.PNG" width=350 />
+</p>
+
+<p align="center">
+  <i>Majority of robot designs share similarities with this design we created during our ideation process, primarily the sliding arm to collect gems</i>
+</p>
+
+<p align="center">
+  <img src="BW_Closed.PNG" width=350 />
+  <img src="BW_Opened.PNG" width=350 />
+</p>
+
+<p align="center">
+  <i>Final design of Black Widow, major differences are orientation of robot and rolling cart for gem collection</i>
+</p>
+
 
 During this project, I was tasked with creating our team logo and some of the CAD, machining and assembling the robot, writing the Labview coding loop for the NI MyRIO, and writing parts of our report.
+
+<p align="center">
+  <img src="Logo.png" width=350 />
+</p>
+
+<p align="center">
+  <i>Logo created using CustomInk interface</i>
+</p>
 
 ## <a name="4641"></a>CS 4641, Intro to Machine Learning: Group Project
 
