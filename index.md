@@ -26,15 +26,25 @@ Description of pictures and rendered images loading...
 ## <a name="2110"></a>ME 2110, Creative Decisions and Designs: Competition Project
 In this class students learned different approaches to ideation and were exposed to the engineering process throughout the entire semester. The class revolved around creating a robot for the class competition at the end of the semester. In the compettion, each team competes in two rounds and those with strong scores in those rounds continue in the competition. After the qualifying rounds the competition runs similarly to a tournament with over 50 teams at the start, in qualifying, and 32 in the first elimination round. Each semester has a theme, ours was Infinity Wars. Our team "Schawarma Palace" came second in design review and our robot "Black Widow" came in 10th place in the competition, making the quarterfinals.
 
-The goal of the competition was to score the most points, head-to-head, against three other teams. The main ways to score points in the competition were saving the "Hulk" object, pushing away the "Thanos" object, recovering "infinity stones", and grabbing the "infinty glove".
+The goal of the competition was to score the most points, head-to-head, against three other teams. The main ways to score points in the competition were saving the "Hulk" object, pushing away the "Thanos" object, recovering "infinity stones", and grabbing the "infinty gauntlet".
 
-Images loading...
+<p align="center">
+  <img src="Track.png" width=250 />
+  <img src="Hulk.png" width=150 />
+  <img src="Thanos.png" width=200 />
+  <img src="gems.png" width=175>
+  <img src="infinity gauntlet.png" width=150 />
+</p>
+
+<p align="center">
+  *Fom left to right: Competition Track, Hulk, Thanos, Infinity Stones, Infinity Gauntlet*
+</p>
 
 Our robot's design differed compared to the majority of robot designs. While most teams situated their robot with one of the short end facing the center of the competition zone, we placed Black Widow with one of the long end facing the center, allowing us to use a cart to collect gems instead of a sliding arm.
 
 Images loading...
 
-During this project, I was tasked with creating some of the CAD, machining and assembling the robot, writing the Labview coding loop for the NI MyRIO, and writing parts of our report.
+During this project, I was tasked with creating our team logo and some of the CAD, machining and assembling the robot, writing the Labview coding loop for the NI MyRIO, and writing parts of our report.
 
 ## <a name="4641"></a>CS 4641, Intro to Machine Learning: Group Project
 
