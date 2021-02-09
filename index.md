@@ -10,11 +10,11 @@
 This guide will be split up into specific projects in chronological order. Alternatively, each one can be accessed by clicking it's subsequent link below.
 
 #### Links:
-- [ME 1770 Final Project][#1770]
-- [ME 2110 Competition Project][#2110]
-- [CS 4641 Group Project][#4641]
-- [ME 4182 Capstone][#4182]
-- [Undergraduate Research][#undrgrd]
+- [ME 1770 Final Project](#1770)
+- [ME 2110 Competition Project](#2110)
+- [CS 4641 Group Project](#4641)
+- [ME 4182 Capstone](#4182)
+- [Undergraduate Research](#undrgrd)
 
 ## <a name="1770"></a>ME 1770, Intro to Engineering Graphics: Final Project
 
