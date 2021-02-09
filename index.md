@@ -71,6 +71,8 @@ During this project, I was tasked with creating our team logo and some of the CA
   <i>Logo created using CustomInk interface</i>
 </p>
 
+If you're interested in learning more about the competition and our design process here is our [final video](https://www.youtube.com/watch?v=8frTduJzepY).
+
 ## <a name="4641"></a>CS 4641, Intro to Machine Learning: Group Project
 
 
