@@ -3,7 +3,11 @@
 </p>
 
 <p align="center">
-  Benjamin Mangel, Georgia Institute of Technology December 2020
+  Benjamin Mangel, Georgia Institute of Technology December 2020  
+</p>
+
+<p align="center">
+  B.S. Mechanical Engineering, Minor in Computer Science - Computing & Intelligence Thread
 </p>
 
 ## Porfolio Guide
